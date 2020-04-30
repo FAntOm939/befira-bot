@@ -1,6 +1,1 @@
-worker: node moder.js
-worker: node mute.js
 worker: node say.js
-worker: node info.js
-worker: node hentai.js
-worker: node clear.js
