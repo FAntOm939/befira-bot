@@ -1,2 +1,0 @@
-worker: node say.js
-worker: node hentai.js
